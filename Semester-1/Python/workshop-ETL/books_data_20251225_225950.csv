@@ -1,0 +1,21 @@
+id,title,author,genre,price,copies_sold,rating,publication_year,publisher,pages,revenue
+1,La Bibliothèque de Minuit,Matt Haig,Fiction,15.99,2500,4.5,2020,Canongate Books,304,39975.0
+2,Atomic Habits,James Clear,Développement Personnel,18.99,5000,4.8,2018,Avery,320,94949.99999999999
+3,Project Hail Mary,Andy Weir,Science-Fiction,17.99,3200,4.7,2021,Ballantine Books,496,57567.99999999999
+4,Le Patient Silencieux,Alex Michaelides,Thriller,14.99,4100,4.3,2019,Celadon Books,336,61459.0
+5,Educated,Tara Westover,Biographie,16.99,2800,4.6,2018,Random House,334,47571.99999999999
+6,Sapiens,Yuval Noah Harari,Non-Fiction,19.99,4500,4.7,2011,Harper,443,89955.0
+7,Les Sept Maris d'Evelyn Hugo,Taylor Jenkins Reid,Fiction,15.99,3800,4.6,2017,Atria Books,388,60762.0
+8,"Thinking, Fast and Slow",Daniel Kahneman,Psychologie,20.99,3500,4.5,2011,"Farrar, Straus and Giroux",499,73465.0
+9,Le Chant d'Achille,Madeline Miller,Fiction Historique,16.99,2900,4.8,2011,Ecco,352,49270.99999999999
+10,Devenir,Michelle Obama,Biographie,18.99,6000,4.9,2018,Crown,448,113939.99999999999
+11,Hunger Games,Suzanne Collins,Jeunesse,14.99,5500,4.4,2008,Scholastic Press,374,82445.0
+12,Dune,Frank Herbert,Science-Fiction,17.99,4200,4.6,1965,Chilton Books,688,75558.0
+13,L'Alchimiste,Paulo Coelho,Fiction,13.99,4800,4.2,1988,HarperOne,208,67152.0
+14,Là où chantent les écrevisses,Delia Owens,Fiction,16.99,5200,4.7,2018,G.P. Putnam's Sons,384,88347.99999999999
+15,Le Pouvoir du Moment Présent,Eckhart Tolle,Développement Personnel,17.99,3300,4.4,1997,New World Library,236,59366.99999999999
+16,Le Code Da Vinci,Dan Brown,Thriller,15.99,4700,4.1,2003,Doubleday,689,75153.0
+17,1984,George Orwell,Fiction,14.99,3900,4.7,1949,Secker & Warburg,328,58461.0
+18,Gatsby le Magnifique,F. Scott Fitzgerald,Fiction,12.99,3400,4.4,1925,Charles Scribner's Sons,180,44166.0
+19,Ne Tirez Pas Sur L’Oiseau Moqueur,Harper Lee,Fiction,14.99,4300,4.8,1960,J.B. Lippincott & Co.,324,64457.0
+20,Harry Potter à l'École des Sorciers,J.K. Rowling,Fantasy,19.99,7500,4.9,1997,Bloomsbury,309,149925.0
